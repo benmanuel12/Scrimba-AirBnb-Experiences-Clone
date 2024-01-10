@@ -1,4 +1,4 @@
-# cod6a41078bdec8db3c39513b
+# Scrimba AirBnB Experiences Project
 
 Quick start:
 
